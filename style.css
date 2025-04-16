@@ -54,15 +54,20 @@ nav{
 
 .links {
   flex-direction: column;
-  gap: 10px;
+  gap: 0px;
   margin: 0;
+  padding: 0%;
   align-items: center;
 }
 #elementos{
     flex-direction: column;
+    margin: 10px;
 }
 #elementos img {
   width: 80%;
   max-width: 300px;
+}
+.imagenes{
+  margin: 10px;
 }    
 }
